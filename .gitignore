@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# folders
+Results/
+isolight/
+docs/
+data/
+
+# misc
+.DS_Store
